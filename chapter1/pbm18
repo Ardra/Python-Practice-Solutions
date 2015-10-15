@@ -1,0 +1,9 @@
+>>> x = 2
+>>> if x == 2:
+...     print x
+... else:
+...     print x +
+  File "<stdin>", line 4
+    print x +
+            ^
+SyntaxError: invalid syntax
