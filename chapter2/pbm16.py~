@@ -1,0 +1,6 @@
+def extsort(list):
+    new_list=[]
+    for x in list:
+        new_list.append(x.split('.'))
+    print new_list
+        
