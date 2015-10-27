@@ -1,5 +1,0 @@
-def tree(dir_name):
-    for root, dirs, files in os.walk(dir_name):
-        print root
-        print dirs
-        print files
